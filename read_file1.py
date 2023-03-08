@@ -1,0 +1,1 @@
+with open('pelican.txt') as x: f = pelican.txt.readlines()
